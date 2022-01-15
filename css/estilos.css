@@ -1,0 +1,22 @@
+* {
+    text-decoration: none;
+    padding: none;
+    margin: 0;
+    box-sizing: border-box;
+    color:none;
+}
+
+
+.logo {
+    align-content: center;
+    text-align: center;
+    font-style: bold;   
+    position: relative; 
+}
+
+.logo_img {
+    margin: 20px 0;
+    vertical-align: middle;    
+    max-width: 20vw;
+    max-height: 150px;
+}
